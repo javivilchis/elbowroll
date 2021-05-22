@@ -10,3 +10,12 @@ It is as simple as clicking the Generate Password presented to you on your favor
 
 Take a look at the layout and experience it yourself!
 
+## Technical approach
+
+The fun parts from the technical side for this password generator is the use of these javascript items.
+
+did you know the ```concat()``` can be used to concatenate strings to a string object?
+
+ASCII Code/Decimals to create the arrays of available and possible characters were used with the help of ```charCode``` and ```fromCharCode``` 
+
+NOTE: no characters, number or special characters were harmed when charCode was used.
